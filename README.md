@@ -1,5 +1,10 @@
 # Assignment for the PySpark Training
 
+# Dataset
+Data contains Apache Access logs obtained from open source freely available sources.
+The access logs contain a total of 6 million+ rows.
+It has not been uploaded here to GitHub due to size constraints, you can see the urls in the "GetData.ipynb" notebook.
+
 # Guide to files
 <ol>
     <li>ProcessLogs.ipynb - Main notebook containing all the Transformations and plot</li>
