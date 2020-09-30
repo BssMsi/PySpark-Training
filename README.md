@@ -1,11 +1,13 @@
 # Assignment for the PySpark Training
+Extracting some insights by tranforming Apache access logs and visualizing through plots
 
-# Dataset
+## Dataset
+<pre>
 Data contains Apache Access logs obtained from open source freely available sources.
 The access logs contain a total of 6 million+ rows.
 It has not been uploaded here to GitHub due to size constraints, you can see the urls in the "GetData.ipynb" notebook.
-
-# Guide to files
+</pre>
+## Guide to files
 <ol>
     <li>ProcessLogs.ipynb - Main notebook containing all the Transformations and plot</li>
     <li>ProcessRDDLogs.ipynb - Trying to tranform the same data using RDD, took much more time, hence abandoned</li>
