@@ -1,6 +1,6 @@
 # Assignment for the PySpark Training
 Extracting some insights by tranforming Apache access logs and visualizing through plots
-
+View the main notebook <a href="https://nbviewer.jupyter.org/github/BssMsi/PySpark-Training/blob/master/ProcessLogs.ipynb">here</a> to render the dynamic map
 ## Dataset
 <pre>
 Data contains Apache Access logs obtained from open source freely available sources.
